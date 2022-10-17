@@ -1,1 +1,1 @@
-# AIcoretraining
+# AI core training
